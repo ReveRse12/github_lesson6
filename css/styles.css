@@ -1,0 +1,105 @@
+.background_poto{
+	width: 100%;
+	height: 662px;
+	display: inline-block;
+	position: absolute;
+	top: 0px;
+}
+.title{
+	position: absolute;
+	top: 220px;
+	left: 139px;
+	color: #FFFFFF;
+	font-size: 62px;
+	font-family: extra;
+}
+.title1{
+	position: absolute;
+	top: 270px;
+	left: 139px;
+	color: #FFFFFF;
+	font-size: 62px;
+	font-family: extra;
+}
+.zetta{
+	position: absolute;
+	color: #FFFFFF;
+	top: 19px;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: semi;
+}
+.home{
+	position: absolute;
+	color: #FFFFFF;
+	left: 665px;
+	text-decoration: none;
+	font-size: 12px;
+	display: inline-block;
+	font-family: medium;
+}
+.rooms{
+	position: absolute;
+	color: #FFFFFF;
+	left:715px;
+	text-decoration: none;
+	font-size: 12px;
+	display: inline-block;
+	font-family: medium;
+}
+.down{
+    position: absolute;
+	color: #FFFFFF;
+	left:750px;
+	text-decoration: none;
+	font-size: 12px;
+	display: inline-block;
+	font-family: medium;
+}
+.restaurant{
+	position: absolute;
+	color: #FFFFFF;
+	left:798px;
+	text-decoration: none;
+	font-size: 12px;
+	display: inline-block;
+	font-family: medium;
+}
+.about_us{
+	position: absolute;
+	color: #FFFFFF;
+	left:900px;
+	text-decoration: none;
+	font-size: 12px;
+	display: inline-block;
+	font-family: medium;
+}
+.blog{
+	position: absolute;
+	color: #FFFFFF;
+	left:980px;
+	text-decoration: none;
+	font-size: 12px;
+	display: inline-block;
+	font-family: medium;
+}
+.contact{
+	position: absolute;
+	color: #FFFFFF;
+	left:1030px;
+	text-decoration: none;
+	font-size: 12px;
+	display: inline-block;
+	font-family: medium;
+}
+.text{
+	position: absolute;
+	color: #FFFFFF;
+	top: 389px;
+	left: 139px;
+	font-size: 14px;
+	font-family: regular;
+}
+li{
+	float: right;
+}
