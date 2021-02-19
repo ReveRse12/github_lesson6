@@ -122,6 +122,35 @@
 	font-size: 20px;
 	font-family: bold;
 }
+.trust{
+	position: absolute;
+	top: 720px;
+	left: 150px;
+	font-size: 42px;
+	font-family: extra;
+}
+.trust1{
+	position: absolute;
+	top: 760px;
+	left: 150px;
+	font-size: 42px;
+	font-family: extra;
+}
+.one{
+	position: absolute;
+	top: 870px;
+	left: 150px;
+	font-size: 16px;
+	font-family: medium;
+}
+.one1{
+	position: absolute;
+	top: 890px;
+	left: 150px;
+	font-size: 16px;
+	font-family: medium;
+}
+
 li{
 	float: right;
 }
