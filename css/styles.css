@@ -100,6 +100,28 @@
 	font-size: 14px;
 	font-family: regular;
 }
+.left{
+	width: 30px;
+	height: 30px;
+	background-color: white;
+	position: absolute;
+	left: 850px;
+}
+.right{
+	width: 30px;
+	height: 30px;
+	background-color: #5863F8;
+	position: absolute;
+	left: 880px;
+}
+.sticky{
+	position: absolute;
+	color: white;
+	top: 550px;
+	left: 150px;
+	font-size: 20px;
+	font-family: bold;
+}
 li{
 	float: right;
 }
